@@ -1,6 +1,16 @@
 XFCE-SUPERKEY
 =============
 
+> [!IMPORTANT]
+> This project is no longer maintained and is no longer necessary.
+>
+> When you press the **Left Super** key on its own, it will simulate the `Alt+Pause` shortcut
+>   (verified on XUbuntu 24.04 with XFCE 4.18).
+>
+> For customization, please use **XFCE’s built-in keyboard shortcut editor** instead.
+
+---
+
 xfce-superkey allows you to open the whisker menu launcher in XFCE using the
 Super key (also known as "Meta" or "the Windows key").
 If you hold down the Super key it will still act as a modifier key, allowing
